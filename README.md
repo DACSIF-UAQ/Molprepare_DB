@@ -1,4 +1,4 @@
-# MolPrepare_DB 🧬💻
+# MolPrepare_DB 💊💻
 
 <a href="https://colab.research.google.com/github/DACSIF-UAQ/Molprepare_DB/blob/main/MolPrepare_DB.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
